@@ -14,7 +14,7 @@ echo "CREATE TABLE player (id INT PRIMARY KEY, firstName, lastName, hand, birth,
 .mode csv
 .import wta_players.csv player
 !
-echo "Players Imported "
+echo "Players Imported"
 
 for i in `ls wta_match*`
 do
