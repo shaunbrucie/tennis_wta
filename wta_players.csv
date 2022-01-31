@@ -58,7 +58,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200055,Mariana,Diaz Oliva,R,19760311,ARG,172,Q2307635
 200056,Jelena,Kostanic Tosic,L,19810706,CRO,168,Q233556
 200057,Erika,De Lone,R,19721014,USA,,Q940235
-200058,Anna,Foldenyi Dicker,R,19740822,HUN,1.65,Q4767019
+200058,Anna,Foldenyi Dicker,R,19740822,HUN,165,Q4767019
 200059,Ruxandra,Dragomir Ilie,R,19721024,ROU,168,Q273507
 200060,Tathiana,Garbin,R,19770630,ITA,172,Q230235
 200061,Gala,Leon Garcia,L,19731223,ESP,163,Q455239
@@ -552,7 +552,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200549,Penny,Barg,R,19640411,USA,,Q3374786
 200550,Emmanuelle,Derly,U,19700430,FRA,,Q3052945
 200551,Teresa,Edgar,U,19690213,GBR,,Q105819995
-200552,Maria,Lindstrom,U,19630307,SWE,1.78,Q3290984
+200552,Maria,Lindstrom,U,19630307,SWE,178,Q3290984
 200553,Carin,Bakkum,U,19620725,NED,,Q2938789
 200554,Brenda,Schultz Mccarthy,R,19701228,NED,188,Q269855
 200555,Valda,Lake,U,19681011,GBR,,Q7909346
@@ -1084,7 +1084,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201081,Joanne,Ward,U,19750622,GBR,,Q18642306
 201082,Lorna,Woodroffe,U,19760818,GBR,168,Q16224847
 201083,Daja,Bedanova,R,19830309,CZE,171,Q545299
-201084,Nadejda,Ostrovskaya,R,19801029,BLR,1.77,Q6453726
+201084,Nadejda,Ostrovskaya,R,19801029,BLR,177,Q6453726
 201085,Shinobu,Asagoe,R,19760628,JPN,170,Q237461
 201086,Greta,Arn,R,19790413,HUN,180,Q77284
 201087,Mashona,Washington,R,19760531,USA,168,Q259014
@@ -1516,7 +1516,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201513,Sabine,Lisicki,R,19890922,GER,178,Q76338
 201514,Sorana,Cirstea,R,19900407,ROU,176,Q230242
 201515,Alisa,Kleybanova,R,19890715,RUS,181,Q220755
-201516,Evgeniya,Rodina,R,19890204,RUS,,Q258950
+201516,Evgeniya,Rodina,R,19890204,RUS,170,Q258950
 201517,Magdalena,Rybarikova,R,19881004,SVK,180,Q230359
 201518,Yanina,Wickmayer,R,19891020,BEL,182,Q228983
 201519,Violette,Huck,L,19880318,FRA,,
@@ -1529,12 +1529,12 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201526,Julie,Coin,R,19821202,FRA,172,Q234828
 201527,Stefanie,Voegele,R,19900310,SUI,170,Q234838
 201528,Melanie,Oudin,R,19910923,USA,168,Q30787
-201529,Kristie,Ahn,R,19920615,USA,,Q3104444
+201529,Kristie,Ahn,R,19920615,USA,165,Q3104444
 201530,Gail,Brodsky,R,19910605,USA,,Q5517052
 201531,Mariana,Duque Marino,R,19890812,COL,169,Q235562
 201532,Anastasia,Pivovarova,R,19900616,RUS,,Q258785
 201533,Shuai,Zhang,R,19890121,CHN,177,Q197291
-201534,Asia,Muhammed,R,19910404,USA,,Q4806395
+201534,Asia,Muhammed,R,19910404,USA,178,Q4806395
 201535,Coco,Vandeweghe,R,19911206,USA,185,Q54688
 201536,Monika,Wejnert,U,19920406,AUS,,
 201537,Patricia,Mayr Achleitner,R,19861108,AUT,169,Q239781
@@ -1582,7 +1582,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201579,Yurika,Sema,L,19861225,JPN,168,Q2604291
 201580,Xinyun,Han,L,19900530,CHN,172,Q713509
 201581,Chun Mei,Ji,R,19860214,CHN,,Q440843
-201582,Jing Jing,Lu,R,19890505,CHN,,Q3487333
+201582,Jing Jing,Lu,R,19890505,CHN,170,Q3487333
 201583,Yana,Buchina,R,19920207,RUS,,
 201584,Ksenia,Pervak,L,19910527,KAZ,170,Q232613
 201585,Sloane,Stephens,R,19930320,USA,170,Q54670
@@ -1604,7 +1604,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201601,Chelsey,Gullickson,U,19900829,USA,,
 201602,Beatrice,Capra,R,19920406,USA,,
 201603,Shelby,Rogers,R,19921013,USA,175,Q377658
-201604,Irina,Falconi,R,19900504,USA,,Q53418
+201604,Irina,Falconi,R,19900504,USA,163,Q53418
 201605,Mandy,Minella,R,19851122,LUX,180,Q239841
 201606,Rebecca,Marino,R,19901216,CAN,183,Q241946
 201607,Sally,Peers,R,19910601,AUS,,Q270587
@@ -1618,7 +1618,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201615,Lesia,Tsurenko,R,19890530,UKR,174,Q289378
 201616,Lauren,Davis,R,19931009,USA,157,Q53405
 201617,Ana,Vrljic,R,19840801,CRO,,Q4750526
-201618,Fatma,Al Nabhani,R,19910520,OMA,,Q5437905
+201618,Fatma,Al Nabhani,R,19910520,OMA,170,Q5437905
 201619,Madison,Keys,R,19950217,USA,178,Q34403
 201620,Monica,Puig,R,19930927,PUR,170,Q1616699
 201621,Mona,Barthel,R,19900711,GER,185,Q77153
@@ -1631,7 +1631,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201628,Li,Li,U,19761003,CHN,,Q66309817
 201629,Yael,Segal,U,19720721,ISR,,Q55081526
 201630,Nicole,Hummel,U,19740801,USA,,Q73030191
-201631,Nicha,Lertpitaksinchai,R,19910814,THA,,Q13512783
+201631,Nicha,Lertpitaksinchai,R,19910814,THA,174,Q13512783
 201632,Ryoko,Fuda,R,19861025,JPN,,
 201633,Tomoko,Yonemura,U,19820701,JPN,,
 201634,Viky,Nunez Fuentes,U,19881014,COL,,Q22279441
@@ -1652,22 +1652,22 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201649,Lenka,Jurikova,R,19900811,SVK,,Q6522678
 201650,Irina,Buryachok,R,19860705,UKR,,
 201651,Michaela,Johansson,R,19880306,SWE,,Q12327022
-201652,Ksenia,Palkina,U,19891213,KGZ,,Q946098
+201652,Ksenia,Palkina,R,19891213,KGZ,174,Q946098
 201653,Ellen,Allgurin,R,19940510,SWE,,Q5364728
 201654,Sandra,Roma,L,19900331,SWE,,Q671352
 201655,Anna,Floris,U,19820515,ITA,,
 201656,Tadeja,Majeric,R,19900831,SLO,178,Q3809139
 201657,Nastja,Kolar,R,19940715,SLO,176,Q6967718
 201658,Carmen,Klaschka,R,19870108,GER,,
-201659,Melanie,Klaffner,R,19900522,AUT,1.71,Q531929
+201659,Melanie,Klaffner,R,19900522,AUT,171,Q531929
 201660,Tereza,Hladikova,R,19880414,CZE,,
 201661,Tina,Schiechtl,R,19840115,AUT,,
 201662,Karolina,Pliskova,R,19920321,CZE,184,Q289365
 201663,Ekaterina,Dzehalevich,U,19860503,BLR,168,Q269191
-201664,Pemra,Ozgen,R,19860508,TUR,1.7,Q3544658
+201664,Pemra,Ozgen,R,19860508,TUR,170,Q3544658
 201665,Ipek,Senoglu,R,19790608,TUR,180,Q270246
 201666,Cagla,Buyukakcay,R,19890928,TUR,172,Q1616864
-201667,Ling,Zhang,R,19891028,HKG,,Q8070270
+201667,Ling,Zhang,R,19891028,HKG,178,Q8070270
 201668,Alexandra,Panova,R,19890302,RUS,179,Q289422
 201669,Yan Chong,Chen,R,19870404,CHN,,
 201670,Amra,Sadikovic,R,19890506,SUI,186,Q64583
@@ -1679,11 +1679,11 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201676,Ye Ra,Lee,R,19870914,KOR,,Q11753640
 201677,Mi,Yoo,R,19860509,KOR,,Q18638068
 201678,Sacha,Jones,R,19901108,AUS,,Q1616831
-201679,Varatchaya,Wongteanchai,R,19890907,THA,,Q4124897
+201679,Varatchaya,Wongteanchai,R,19890907,THA,169,Q4124897
 201680,Anna,Gerasimou,R,19871015,GRE,,Q3557651
 201681,Suchanun,Viratprasert,R,19830101,THA,,Q4919169
 201682,Nudnida,Luangnam,R,19870227,THA,167,Q463729
-201683,Bianca,Botto,L,19910606,PER,,Q3948619
+201683,Bianca,Botto,L,19910606,PER,178,Q3948619
 201684,Paula,Zabala,U,19850126,COL,,Q56697606
 201685,Kristina,Antoniychuk,U,19900904,UKR,,
 201686,Alejandra,Granillo,R,19910601,MEX,,Q61163186
@@ -1697,13 +1697,13 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201694,Silvia,Njiric,R,19930709,CRO,163,Q3960779
 201695,Anna,Brazhnikova,R,19911004,SWE,,Q4766880
 201696,Laura,Siegemund,R,19880304,GER,168,Q89128
-201697,Kristyna,Pliskova,L,19920321,CZE,,Q289295
+201697,Kristyna,Pliskova,L,19920321,CZE,184,Q289295
 201698,Liana Gabriela,Ungur,U,19850102,ROU,,Q2085974
-201699,Martina,Caregaro,R,19920519,ITA,,Q20007827
+201699,Martina,Caregaro,R,19920519,ITA,165,Q20007827
 201700,Nikola,Hofmanova,R,19910203,AUT,178,Q293217
 201701,Basak,Eraydin,R,19940621,TUR,,Q8707137
 201702,Malou,Ejdesgaard,R,19910313,DEN,,Q441308
-201703,Yi Fan,Xu,L,19880808,CHN,,Q4845400
+201703,Yi Fan,Xu,L,19880808,CHN,165,Q4845400
 201704,Nadejda,Guskova,R,19920110,RUS,,
 201705,Alina,Abdurakhimova,R,19950323,UZB,,Q107120952
 201706,Eirini,Georgatou,U,19900201,GRE,,Q5349871
@@ -2187,7 +2187,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202184,Jackie,Joseph,U,19640104,USA,,
 202185,Anna,Bielen Zarska,R,19790722,POL,,Q4766854
 202186,Blanka,Kumbarova,U,19760622,CZE,,Q66436567
-202187,Ilana,Berger,U,19651231,ISR,1.69,Q12021491
+202187,Ilana,Berger,U,19651231,ISR,169,Q12021491
 202188,Valerie,Batut,U,19691012,FRA,,Q106898813
 202189,Anne Sophie,Bittighoffer,U,19771124,FRA,,Q106900885
 202190,Elke,Renz,U,19590216,GER,,
@@ -2379,7 +2379,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202376,Raquel,Kops Jones,R,19821208,USA,,Q144343
 202377,Brittany,Augustine,R,19910919,USA,,
 202378,Kirsten,Flower,U,19880814,USA,,
-202379,Chieh Yu,Hsu,L,19920114,USA,,Q15055721
+202379,Chieh Yu,Hsu,L,19920114,USA,170,Q15055721
 202380,Silvia,Disderi,R,19830710,ITA,,
 202381,Ksenia,Milevskaya,R,19900809,BLR,172,Q2626949
 202382,Ekaterina,Shulaeva,R,19870530,CAN,,Q29050601
@@ -2393,7 +2393,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202390,Ellen,Barry,R,19890212,NZL,,Q5364751
 202391,Akiko,Yonemura,U,19840125,JPN,,
 202392,Melisa,Miranda Otarola,R,19880428,CHI,,Q68224527
-202393,Andrea,Koch Benvenuto,R,19850426,CHI,1.74,Q195893
+202393,Andrea,Koch Benvenuto,R,19850426,CHI,174,Q195893
 202394,Camila,Silva,R,19921030,CHI,,Q5741991
 202395,Maria,Irigoyen,L,19870624,ARG,171,Q2622565
 202396,Nadja,Roma,U,19880727,SWE,,Q4975293
@@ -2410,7 +2410,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202407,Palma,Kiraly,R,19910202,HUN,,
 202408,Amanda,Fink,U,19861204,USA,,
 202409,Alisa,Ogorodova,R,19940318,UZB,,
-202410,Sofia,Shapatava,R,19890112,GEO,,Q1753608
+202410,Sofia,Shapatava,R,19890112,GEO,170,Q1753608
 202411,Sariya,Khairova,U,19870210,UZB,,
 202412,Maria,Mokh,R,19901104,RUS,,
 202413,Florencia,Molinero,R,19881128,ARG,170,Q2600852
@@ -2420,30 +2420,30 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202417,Tetiana,Luzhanska,R,19840904,USA,,
 202418,Lara,Arruabarrena,R,19920320,ESP,166,Q237146
 202419,Barbara,Luz,R,19930528,POR,,Q5004832
-202420,An Sophie,Mestach,R,19940307,BEL,1.7,Q454683
+202420,An Sophie,Mestach,R,19940307,BEL,170,Q454683
 202421,Alison,Van Uytvanck,R,19940326,BEL,173,Q1976217
 202422,Shuko,Aoyama,R,19871219,JPN,154,Q2443685
 202423,Sarah,Gronert,U,19860706,GER,,
-202424,Conny,Perrin,R,19901225,SUI,,Q5162081
-202425,Samantha,Murray,R,19871009,GBR,,Q12193601
-202426,Julia,Boserup,R,19910909,USA,,Q4992442
+202424,Conny,Perrin,R,19901225,SUI,174,Q5162081
+202425,Samantha,Murray,R,19871009,GBR,178,Q12193601
+202426,Julia,Boserup,R,19910909,USA,181,Q4992442
 202427,Johanna,Konta,R,19910517,GBR,180,Q770789
 202428,Kiki,Bertens,R,19911210,NED,182,Q239733
 202429,Camila,Giorgi,R,19911230,ITA,168,Q34248
-202430,Alize,Lim,R,19900713,FRA,,Q1942172
+202430,Alize,Lim,R,19900713,FRA,173,Q1942172
 202431,Tetyana,Arefyeva,R,19910309,UKR,,
 202432,Hilda,Melander,U,19911201,SWE,,Q5761416
 202433,Anna Giulia,Remondina,R,19890601,ITA,,Q558949
 202434,Aleksandra,Krunic,R,19930315,SRB,163,Q2631763
 202435,Vanda,Lukacs,U,19921208,HUN,,Q7914294
-202436,Reka Luca,Jani,R,19910731,HUN,,Q772600
+202436,Reka Luca,Jani,R,19910731,HUN,161,Q772600
 202437,Anastasia,Grymalska,R,19900712,ITA,,Q4751868
 202438,Ani,Mijacika,R,19870615,CRO,,Q3446755
 202439,Silvia,Albano,R,19940912,ITA,,
 202440,Paula,Ormaechea,R,19920928,ARG,170,Q269636
 202441,Nina,Khrisanova,R,19941209,RUS,,
 202442,Tatia,Mikadze,R,19880327,GEO,,Q7688056
-202443,Valeria,Savinykh,R,19910220,RUS,,Q440162
+202443,Valeria,Savinykh,R,19910220,RUS,167,Q440162
 202444,Kamilla,Farhad,U,19960118,AZE,,
 202445,Valeria,Solovieva,R,19921103,RUS,168,Q247192
 202446,Eugenie,Bouchard,R,19940225,CAN,178,Q439032
@@ -2467,7 +2467,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202464,Yuliana,Lizarazo,R,19930523,COL,,Q8060948
 202465,Maria,Abramovic,R,19870819,CRO,,
 202466,Nadia,Abdala,U,19880814,MEX,,Q13512752
-202467,Elitsa,Kostova,R,19900410,BUL,,Q3657210
+202467,Elitsa,Kostova,R,19900410,BUL,172,Q3657210
 202468,Jessica,Pegula,R,19940224,USA,170,Q24159
 202469,Garbine,Muguruza,R,19931008,ESP,182,Q34276
 202470,Annika,Beck,R,19940216,GER,170,Q77157
@@ -2479,36 +2479,36 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202476,Csilla,Borsanyi,U,19870802,HUN,,
 202477,Dinah,Pfizenmaier,R,19920113,GER,,Q63289
 202478,Tara,Moore,R,19920806,GBR,163,Q1616613
-202479,Grace,Min,R,19940506,USA,,Q54542
+202479,Grace,Min,R,19940506,USA,163,Q54542
 202480,Richel,Hogenkamp,R,19920416,NED,168,Q2352456
 202481,Chi Chi,Scholl,R,19920705,USA,,Q54579
-202482,Barbara,Haas,R,19960319,AUT,1.65,Q4858938
+202482,Barbara,Haas,R,19960319,AUT,165,Q4858938
 202483,Sandra,Zaniewska,R,19920103,POL,,Q641153
-202484,Nicole,Gibbs,R,19930303,USA,,Q53548
+202484,Nicole,Gibbs,R,19930303,USA,168,Q53548
 202485,Jana,Juricova,R,19871208,SVK,,Q6150527
 202486,Mallory,Burdette,R,19910128,USA,,
 202487,Nastassja,Burnett,R,19920220,ITA,178,Q1616815
-202488,Valentyna,Ivakhnenko,R,19930627,UKR,,Q7911074
-202489,Carina,Witthoeft,R,19950216,GER,,Q6757157
+202488,Valentyna,Ivakhnenko,R,19930627,UKR,163,Q7911074
+202489,Carina,Witthoeft,R,19950216,GER,176,Q6757157
 202490,Rebecca,Peterson,R,19950806,SWE,173,Q6451785
-202491,Varvara,Flink,R,19961213,RUS,,Q13512756
+202491,Varvara,Flink,R,19961213,RUS,175,Q13512756
 202492,Qiang,Wang,R,19920114,CHN,172,Q4800760
 202493,Ekaterine,Gorgodze,L,19911203,GEO,,Q5350353
 202494,Elina,Svitolina,R,19940912,UKR,174,Q270249
 202495,Jennifer,Elie,R,19860922,USA,,Q13512669
-202496,Samantha,Crawford,R,19950218,USA,,Q53398
-202497,Victoria,Duval,R,19951130,USA,,Q53414
+202496,Samantha,Crawford,R,19950218,USA,188,Q53398
+202497,Victoria,Duval,R,19951130,USA,178,Q53414
 202498,Julia,Glushko,R,19900101,ISR,171,Q1618676
 202499,Donna,Vekic,R,19960628,CRO,179,Q648854
 202500,Maria,Sanchez,R,19891126,USA,,Q34398
 202501,Hyun Hui,Hong,U,19911227,KOR,,Q21067290
-202502,So Ra,Lee,L,19940722,KOR,,Q16224631
+202502,So Ra,Lee,L,19940722,KOR,172,Q16224631
 202503,Luksika,Kumkhum,R,19930721,THA,167,Q539526
-202504,Ying Ying,Duan,R,19890603,CHN,,Q4706382
+202504,Ying Ying,Duan,R,19890603,CHN,186,Q4706382
 202505,Belinda,Bencic,R,19970310,SUI,175,Q509903
 202506,Margarita,Gasparyan,R,19940901,RUS,183,Q4134097
 202507,Wing Yau Venise,Chan,R,19890530,HKG,,Q7920023
-202508,Yuxuan,Zhang,R,19940819,CHN,,Q2908103
+202508,Yuxuan,Zhang,R,19940819,CHN,179,Q2908103
 202509,Joelle,Schad,U,19730313,DOM,,Q13550755
 202510,Natacha,Randriantefy,R,19780314,MAD,173,Q1634516
 202511,Paulina,Sepulveda,U,19680915,CHI,,Q61864476
@@ -2536,10 +2536,10 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202533,Estelle,Guisard,R,19890405,FRA,,
 202534,Nathalie,Mohn,R,19911121,FRA,,
 202535,Karla,Mraz,R,19820728,FRA,,
-202536,Ana,Bogdan,R,19921125,ROU,,Q3614850
+202536,Ana,Bogdan,R,19921125,ROU,171,Q3614850
 202537,Federica,Quercia,R,19850316,ITA,,
 202538,Elena,Pioppo,R,19790521,ITA,,
-202539,Alison,Bai,R,19900118,AUS,,Q4727012
+202539,Alison,Bai,R,19900118,AUS,170,Q4727012
 202540,Neda,Kozic,R,19851121,SRB,,
 202541,Verdiana,Verardi,R,19871216,ITA,,
 202542,Valentina,Sulpizio,R,19840818,ITA,,
@@ -2578,10 +2578,10 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202575,Kumiko,Iijima,R,19821022,JPN,,
 202576,Shaozhuo,Liu,L,19901031,CHN,,
 202577,Florence,Haring,R,19851002,FRA,,
-202578,Laura Ioana,Andrei,R,19880531,ROU,,Q12052895
-202579,Giulia,Gatto Monticone,R,19871118,ITA,,Q3769266
+202578,Laura Ioana,Andrei,R,19880531,ROU,173,Q12052895
+202579,Giulia,Gatto Monticone,R,19871118,ITA,177,Q3769266
 202580,Federica,Di Sarra,R,19900516,ITA,,Q3741540
-202581,Chanel,Simmonds,L,19920810,RSA,1.65,Q5071541
+202581,Chanel,Simmonds,L,19920810,RSA,165,Q5071541
 202582,Lizaan,Du Plessis,L,19860223,RSA,,Q56224197
 202583,Megan,Moulton Levy,R,19850311,USA,152,Q2338085
 202584,Leonie,Mekel,R,19831111,NED,,
@@ -2600,11 +2600,11 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202597,Veronica,Spiegel,U,19831016,ARG,,
 202598,Natalie,Piquion,R,19880918,FRA,,
 202599,Alice,Moroni,R,19910221,ITA,,Q73225231
-202600,Viktoriya,Tomova,R,19950225,BUL,,Q10996110
+202600,Viktoriya,Tomova,R,19950225,BUL,170,Q10996110
 202601,Bistra,Otashliyska,R,19910926,BUL,,
 202602,Patrycja,Sanduska,R,19861125,POL,,
 202603,Cindy,Chala,L,19910517,FRA,,
-202604,Despina,Papamichail,R,19930209,GRE,,Q13512708
+202604,Despina,Papamichail,R,19930209,GRE,178,Q13512708
 202605,Julia,Mayr,R,19910812,ITA,,
 202606,Claudia,Giovine,R,19900718,ITA,,Q5129175
 202607,Yi,Chen,R,19861112,TPE,,Q16203243
@@ -2614,21 +2614,21 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202611,Oksana,Kalashnikova,L,19900905,GEO,184,Q197549
 202612,Courtney B,Dolehide,U,19920325,USA,,
 202613,Kimberly,Couts,U,19890509,USA,,
-202614,Jacqueline,Cako,R,19910830,USA,,Q6453895
+202614,Jacqueline,Cako,R,19910830,USA,178,Q6453895
 202615,Natasha,Fourouclas,R,19940131,RSA,,Q19282110
 202616,Justyna,Jegiolka,U,19910917,POL,,Q5186420
 202617,Ester,Goldfeld,R,19930704,USA,,
 202618,Welma,Luus,R,19920520,RSA,,
-202619,Ema,Burgic,R,19920822,BIH,1.78,Q3509738
+202619,Ema,Burgic,R,19920822,BIH,178,Q3509738
 202620,Yuliya,Kalabina,R,19900327,RUS,,
 202621,Elixane,Lechemia,L,19910903,FRA,,Q64167134
-202622,Lyudmyla,Kichenok,R,19920720,UKR,,Q4222570
+202622,Lyudmyla,Kichenok,R,19920720,UKR,175,Q4222570
 202623,Valentine,Confalonieri,R,19920427,ITA,,
 202624,Elena,Chalova,R,19870516,RUS,,
 202625,Melanie,Maietti,R,19930527,FRA,,
 202626,Stephanie,Vogt,R,19900215,LIE,167,Q271158
 202627,Fiona,Gervais,U,19940106,FRA,,
-202628,Maryna,Zanevska,R,19930824,UKR,,Q2626886
+202628,Maryna,Zanevska,R,19930824,UKR,175,Q2626886
 202629,Gabriela,Paz,R,19910930,VEN,,Q5515977
 202630,Eleanor,Peters,U,19880626,USA,,
 202631,Lara,Michel,U,19911224,SUI,,Q13359484
@@ -2653,13 +2653,13 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202650,Gally,De Wael,R,19911016,BEL,,
 202651,Lisa,Whybourn,R,19910511,GBR,,Q6558491
 202652,Kim Alice,Grajdek,U,19910330,GER,,
-202653,Denisa,Allertova,R,19930307,CZE,1.8,Q16725789
+202653,Denisa,Allertova,R,19930307,CZE,180,Q16725789
 202654,Martina,Pradova,R,19910127,CZE,,
 202655,Gesa,Focke,R,19920411,GER,,
 202656,Estelle,Cascino,R,19960313,FRA,,Q64148575
 202657,Dijana,Banovec,R,19920804,CRO,,
 202658,Audrey,Bergot,R,19850201,FRA,,
-202659,Tereza,Mrdeza,R,19901114,CRO,1.73,Q5212359
+202659,Tereza,Mrdeza,R,19901114,CRO,173,Q5212359
 202660,Jade,Windley,R,19900422,GBR,,
 202661,Lucy,Brown,R,19930111,GBR,,
 202662,Camilla,Rosatello,R,19950528,ITA,,Q29555684
@@ -2672,7 +2672,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202669,Cristina,Dinu,R,19930118,ROU,,Q5186338
 202670,Elora,Dabija,R,19910609,ROU,,
 202671,Cristina Andreea,Mitu,R,19910922,ROU,175,Q3697548
-202672,Ekaterina,Yashina,R,19930806,RUS,,Q5350350
+202672,Ekaterina,Yashina,R,19930806,RUS,173,Q5350350
 202673,Anastasiya,Yepisheva,U,19960422,KAZ,,
 202674,Alexandra,Romanova,R,19930430,RUS,,
 202675,Aselya,Arginbayeva,R,19920712,KAZ,,
@@ -2684,8 +2684,8 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202681,Gabriela,Dabrowski,R,19920401,CAN,175,Q5515953
 202682,Sara,Eccel,R,19940704,ITA,,
 202683,Wan Ting,Liu,R,19890216,CHN,,Q4801752
-202684,Lin,Zhu,R,19940128,CHN,,Q17319111
-202685,Misa,Eguchi,R,19920418,JPN,,Q15700787
+202684,Lin,Zhu,R,19940128,CHN,173,Q17319111
+202685,Misa,Eguchi,R,19920418,JPN,173,Q15700787
 202686,Di,Zhao,U,19930105,CHN,,
 202687,Ran,Tian,R,19940108,CHN,,Q18128726
 202688,Isabella,Shinikova,R,19911025,BUL,184,Q6078092
@@ -2693,9 +2693,9 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202690,Hristina,Dishkova,R,19931111,GER,,
 202691,Ani,Vangelova,U,19930714,BUL,,Q66684985
 202692,Radina,Dimitrova,U,19970612,BUL,,
-202693,Ya Hsuan,Lee,R,19950720,TPE,,Q18637630
+202693,Ya Hsuan,Lee,R,19950720,TPE,165,Q18637630
 202694,Teliana,Pereira,R,19880720,BRA,168,Q34410
-202695,Aleksandrina,Naydenova,R,19920229,BUL,,Q4715613
+202695,Aleksandrina,Naydenova,R,19920229,BUL,170,Q4715613
 202696,Federica,Grazioso,R,19890122,ITA,,
 202697,Anne Liz,Jeukeng,U,19960526,USA,,
 202698,Alessondra,Parra,R,19900906,USA,,
@@ -2707,7 +2707,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202704,Rocio,De La Torre Sanchez,U,19901019,ESP,,Q22236572
 202705,Veronica,Cepede Royg,R,19920121,PAR,163,Q438508
 202706,Manon,Arcangioli,U,19940828,FRA,,Q19938320
-202707,Myrtille,Georges,R,19901221,FRA,,Q6948568
+202707,Myrtille,Georges,R,19901221,FRA,174,Q6948568
 202708,Lucie,Schmidhauser,U,19720406,USA,,
 202709,Jessica,Lehnhoff,R,19800315,GUA,,Q47087780
 202710,Olga,Lazarchuk,R,19811203,UKR,,
@@ -2900,7 +2900,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202897,Sarah,Moundir,U,19920529,SUI,,Q7905378
 202898,Romana Caroline,Tabak,R,19910507,SVK,,
 202899,Cassandra,Barr,R,19821019,AUS,,
-202900,Maria Fernanda,Alvarez Teran,R,19890228,BOL,,Q3292179
+202900,Maria Fernanda,Alvarez Teran,R,19890228,BOL,174,Q3292179
 202901,Antonela,Susak,R,19920403,CRO,,
 202902,Marija,Mirkovic,R,19900223,AUS,,
 202903,Shannon,Golds,R,19861003,AUS,,
@@ -2916,12 +2916,12 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 202913,Jara,Ghadri,R,19890227,GER,,
 202914,Jessica,Cohen,U,19911219,FRA,,
 202915,Alexandra,Moreno Kaste,R,19921117,COL,,
-202916,Georgina,Garcia Perez,U,19920513,ESP,,Q21402261
+202916,Georgina,Garcia Perez,U,19920513,ESP,187,Q21402261
 202917,Raluca Elena,Platon,R,19930611,ROU,,
 202918,Danielle,Harmsen,L,19860125,NED,,
-202919,Chang,Liu,U,19900801,CHN,,Q16219267
+202919,Chang,Liu,R,19900801,CHN,160,Q16219267
 202920,Yi,Zhong,R,19920622,CHN,,
-202921,Shiho,Akita,R,19900118,JPN,,Q23661790
+202921,Shiho,Akita,R,19900118,JPN,155,Q23661790
 202922,Michaela,Honcova,R,19921222,SVK,,Q1930044
 202923,Amanda,Mcdowell,U,19870902,USA,,
 202924,Anastasia,Kharchenko,R,19891212,UKR,,
@@ -3281,29 +3281,29 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203278,Kaori,Onishi,R,19860131,JPN,,
 203279,Nadja,Gilchrist,R,19900607,USA,,Q23059603
 203280,Gracia,Radovanovic,R,19910331,FRA,,
-203281,Amandine,Hesse,R,19930116,FRA,,Q1394777
+203281,Amandine,Hesse,R,19930116,FRA,164,Q1394777
 203282,Salome,Llaguno,L,19830108,ARG,,
 203283,Tamara,Stojkovic,R,19900330,CRO,,
 203284,Katerina,Vankova,L,19891230,CZE,,Q14329578
 203285,Vasilisa,Davydova,L,19860206,RUS,,
 203286,Veronika,Kolarova,R,19881126,CZE,,
 203287,Gabriella,Polito,R,19870611,ITA,,
-203288,Jia Jing,Lu,R,19891118,CHN,,Q17281094
+203288,Jia Jing,Lu,R,19891118,CHN,173,Q17281094
 203289,Yuan,Jia,R,19891018,CHN,,
-203290,Piia,Suomalainen,R,19840709,FIN,1.72,Q13555
+203290,Piia,Suomalainen,R,19840709,FIN,172,Q13555
 203291,Alena,Nogolova,R,19900206,CZE,,
 203292,Eva,Pigova,R,19890528,CZE,,
 203293,Karolina,Wlodarczak,U,19870627,AUS,,
 203294,Erica,Robertson,U,19901127,USA,,
 203295,Jenna,Long,U,19851126,USA,,
 203296,Maria,Mosolova,R,19891019,RUS,,
-203297,Nadiya,Kichenok,R,19920720,UKR,,Q4222571
+203297,Nadiya,Kichenok,R,19920720,UKR,172,Q4222571
 203298,Romana,Janshen,R,19880605,NED,,
 203299,Marion,Gaud,U,19851226,FRA,,
 203300,Kristina,Steiert,R,19901126,GER,,
 203301,Tiya,Rolle,U,19860611,USA,,
 203302,Natalie,Frazier,U,19850322,USA,,
-203303,Ana,Veselinovic,L,19880222,SRB,1.73,Q12434823
+203303,Ana,Veselinovic,L,19880222,SRB,173,Q12434823
 203304,Courtney,Nagle,U,19820929,USA,,
 203305,Antonia Xenia,Tout,U,19860702,ROU,,
 203306,Stella,Menna,R,19880218,ITA,,
@@ -3315,7 +3315,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203312,Shona,Lee,R,19880819,NZL,,Q29168231
 203313,Kristy,Frilling,L,19900108,USA,,
 203314,Susanna,Lingman,U,19831103,USA,,
-203315,Alexa,Guarachi,U,19901117,USA,,Q21045631
+203315,Alexa,Guarachi,R,19901117,USA,173,Q21045631
 203316,Aeriel,Ellis,R,19900928,USA,,
 203317,Amandine,Cazeaux,L,19890225,FRA,,
 203318,Shu Ying,Hsieh,R,19930723,TPE,,Q5924238
@@ -3325,7 +3325,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203322,Aleksandra,Grela,U,19911110,POL,,
 203323,Anna,Koumantou,R,19821203,GRE,,Q12301756
 203324,Dessislava,Mladenova,L,19880621,BUL,,Q5265074
-203325,Martina,Di Giuseppe,U,19910210,ITA,,Q53855558
+203325,Martina,Di Giuseppe,R,19910210,ITA,,Q53855558
 203326,Lisa,Sabino,U,19860726,SUI,,Q6558386
 203327,Maureen,Diaz,R,19820528,USA,,
 203328,Allie,Will,U,19910420,USA,,Q10296664
@@ -3379,7 +3379,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203376,Eugeniya,Pashkova,R,19890219,RUS,,
 203377,Margarita,Edinarova,R,19910429,RUS,,
 203378,Ksenia,Kirillova,R,19930620,RUS,,
-203379,Marina,Melnikova,R,19890205,RUS,,Q6452511
+203379,Marina,Melnikova,R,19890205,RUS,173,Q6452511
 203380,Julia,Valetova,R,19940718,RUS,,
 203381,Ganna,Piven,R,19920114,UKR,,
 203382,Elina,Gasanova,U,19890721,RUS,,Q26705171
@@ -3398,7 +3398,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203395,Tarakaa,Bertrand,U,19860811,USA,,
 203396,Saori,Karikomi,U,19880602,JPN,,
 203397,Anna,Tajima,U,19910216,JPN,,
-203398,Danielle,Lao,R,19910528,USA,,Q18044538
+203398,Danielle,Lao,R,19910528,USA,160,Q18044538
 203399,Ellen,Tsay,U,19931008,USA,,
 203400,Tea,Faber,R,19890627,CRO,,
 203401,Matea,Cutura,R,19931110,CRO,,
@@ -3421,7 +3421,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203418,Natalia,Berezhnaya,U,19920309,KAZ,,
 203419,Nanuli,Pipiya,R,19920105,RUS,,
 203420,Avgusta,Tsybysheva,R,19880814,RUS,,
-203421,Chen,Astrogo,R,19900225,ISR,1.56,Q7043901
+203421,Chen,Astrogo,R,19900225,ISR,156,Q7043901
 203422,Elisabeth,Abanda,R,19940331,CAN,,
 203423,Marianne,Jodoin,R,19930112,CAN,,
 203424,Elianne,Douglas Miron,U,19940323,CAN,,
@@ -3431,11 +3431,11 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203428,Vivien,Juhaszova,R,19930717,SVK,,Q106367843
 203429,Tamara,Curovic,R,19941031,SRB,,Q7680855
 203430,Kumari Sweta,Solanki,U,19910327,IND,,
-203431,Keren,Shlomo,R,19880114,ISR,1.67,Q2177697
+203431,Keren,Shlomo,R,19880114,ISR,167,Q2177697
 203432,Rashmi,Teltumbde,R,19920108,IND,,
 203433,Rishika,Sunkara,R,19930514,IND,,Q16224774
 203434,Sheethal,Goutham,R,19810606,IND,,Q106860466
-203435,Dalila,Jakupovic,R,19910324,SLO,,Q15830617
+203435,Dalila,Jakupovic,R,19910324,SLO,178,Q15830617
 203436,Yaroslava,Zhishchenko,U,19900828,RUS,,
 203437,Anastasia,Mukhametova,R,19920526,RUS,,
 203438,Karina,Pimkina,R,19910314,RUS,,
@@ -3475,7 +3475,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203472,Catherine,Parenteau St Antoine,U,19940826,CAN,,
 203473,Kimberley Ann,Surin,R,19940725,CAN,,
 203474,Nika,Kukharchuk,U,19870208,RUS,,Q66385534
-203475,Carol,Zhao,R,19950620,CAN,1.65,Q3702485
+203475,Carol,Zhao,R,19950620,CAN,165,Q3702485
 203476,Alejandra,Starkova,U,19940316,ESP,,
 203477,Silvia,Garcia Jimenez,U,19940730,ESP,,
 203478,Jade,Frampton,U,19921028,USA,,
@@ -3500,11 +3500,11 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203497,Simone,Kalhorn,U,19891230,USA,,
 203498,Elizabeth,Ferris,U,19860731,USA,,
 203499,Gabrielle Faith,Andrews,R,19961223,USA,,
-203500,Sachia,Vickery,R,19950511,USA,,Q14646554
+203500,Sachia,Vickery,R,19950511,USA,162,Q14646554
 203501,Taylor,Townsend,L,19960416,USA,170,Q766964
 203502,Lindsey,Hardenbergh,U,19900104,USA,,
 203503,Kazusa,Ito,R,19840923,JPN,,
-203504,Miyu,Kato,R,19941121,JPN,,Q20982979
+203504,Miyu,Kato,R,19941121,JPN,156,Q20982979
 203505,Tereza,Hejlova,R,19950522,CZE,,
 203506,Carolina,Orsi,L,19910704,ITA,,
 203507,Giorgia,Marchetti,R,19950121,ITA,,Q26269760
@@ -3513,7 +3513,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203510,Nathalia,Rossi,L,19890428,BRA,,Q18761142
 203511,Alexandra,Kiick,R,19950630,USA,,
 203512,Alexandra,Kelleher,U,19910213,USA,,
-203513,Robin,Anderson,R,19930412,USA,,Q23059598
+203513,Robin,Anderson,R,19930412,USA,160,Q23059598
 203514,Katarzyna,Kawa,R,19921117,POL,178,Q15770368
 203515,Monika,Magusiak,U,19930328,POL,,
 203516,Nadiya,Kolb,R,19930119,UKR,,
@@ -3521,7 +3521,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203518,Paula,Kania,R,19921106,POL,168,Q276319
 203519,Katarzyna,Kapustka,U,19940419,POL,,
 203520,Arabela,Fernandez Rabener,U,19901020,ESP,,Q83630392
-203521,Andrea,Gamiz,R,19921031,VEN,,Q4755117
+203521,Andrea,Gamiz,R,19921031,VEN,162,Q4755117
 203522,Yevgeniya,Kryvoruchko,R,19910313,UKR,,
 203523,Isabel,Rapisarda Calvo,U,19910516,ESP,,
 203524,Morgane,Pons,R,19920405,FRA,,
@@ -3552,8 +3552,8 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203549,Olga,Ianchuk,U,19950329,UKR,,Q20736463
 203550,Brianna,Morgan,U,19940219,USA,,
 203551,Olivia,Sneed,U,19960122,USA,,
-203552,Risa,Ozaki,R,19940410,JPN,,Q14616346
-203553,Riko,Sawayanagi,R,19941025,JPN,,Q7334091
+203552,Risa,Ozaki,R,19940410,JPN,163,Q14616346
+203553,Riko,Sawayanagi,R,19941025,JPN,163,Q7334091
 203554,Yuriko,Sakai,U,19890412,JPN,,
 203555,Mai,Minokoshi,U,19920416,JPN,,Q54370269
 203556,Yuuki,Tanaka,L,19900307,JPN,,Q22957719
@@ -3562,12 +3562,12 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203559,Clothilde,De Bernardi,R,19941116,FRA,,Q19968977
 203560,Whitney,Jones,U,19860811,USA,,
 203561,Charlotte,Petrick,R,19970131,CAN,,
-203562,Erin,Routliffe,R,19950411,CAN,,Q20895299
+203562,Erin,Routliffe,R,19950411,CAN,188,Q20895299
 203563,Emily J,Harman,R,19910615,USA,,
-203564,Chloe,Paquet,R,19940701,FRA,,Q16956915
+203564,Chloe,Paquet,R,19940701,FRA,179,Q16956915
 203565,Alice,Tisset,U,19900223,FRA,,
 203566,Christina,Shakovets,R,19940429,GER,,Q5110871
-203567,Ipek,Soylu,R,19960415,TUR,1.74,Q8080164
+203567,Ipek,Soylu,R,19960415,TUR,174,Q8080164
 203568,Naz,Karagoz,R,19960124,TUR,,
 203569,Olga,Doroshina,L,19940624,RUS,,Q19959305
 203570,Bermet,Duvanaeva,R,19880128,KGZ,,Q4169985
@@ -3576,22 +3576,22 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 203573,Ekaterina,Semenova,U,19940301,RUS,,
 203574,Lisanne,Van Riet,U,19910618,NED,,
 203575,Danka,Kovinic,R,19941118,MNE,169,Q5219935
-203576,Kai Lin,Zhang,R,19900128,CHN,,Q16742868
+203576,Kai Lin,Zhang,R,19900128,CHN,173,Q16742868
 203577,Caroline B,Dailey,U,19941031,USA,,
-203578,Fangzhou,Liu,R,19951212,CHN,,Q15491968
+203578,Fangzhou,Liu,R,19951212,CHN,180,Q15491968
 203579,Chalena,Scholl,U,19950818,USA,,
 203580,Miki,Ukai,U,19940823,JPN,,
 203581,Elizabeth Anita Alexandria,Profit,U,19960806,USA,,
 203582,Breanna Alexa Bachini,Bachini,R,19930521,USA,,
 203583,Mary,Closs,U,19950817,USA,,
-203584,Adriana,Perez,R,19921120,VEN,,Q4685520
+203584,Adriana,Perez,R,19921120,VEN,163,Q4685520
 203585,Tatsiana,Kapshay,U,19881109,BLR,,
 203586,Ioana Loredana,Rosca,R,19960920,ROU,,Q17144903
 203587,Diana,Marcu,R,19911105,ROU,,
 203588,Cristina,Adamescu,R,19951025,ROU,,
 203589,Camelia Elena,Hristea,R,19910203,ROU,,Q5025895
 203590,Ana Mihaela,Vladutu,R,19930219,ROU,,
-203591,Katy,Dunne,R,19950216,GBR,,Q17157004
+203591,Katy,Dunne,R,19950216,GBR,167,Q17157004
 203592,Melanie Ann,Clayton,U,19810905,AUS,,
 203593,Maree,Booth,U,,AUS,,
 203594,Susan,Kreymborg,U,,AUS,,
@@ -4223,7 +4223,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 204220,Dianne,Hollands,R,19830511,NZL,,Q27868216
 204221,Kairangi,Vano,R,19891108,NZL,,Q29185723
 204222,Tyra,Calderwood,R,19900919,AUS,,
-204223,Peangtarn,Plipuech,U,19921115,THA,,Q7157914
+204223,Peangtarn,Plipuech,U,19921115,THA,169,Q7157914
 204224,Kanyapat,Narattana,R,19920914,THA,,
 204225,Alina,Tseplukhova,U,19900526,RUS,,
 204226,Sophia,Mulsap,U,19900606,THA,,
@@ -5944,7 +5944,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 205941,Ganna,Poznikhirenko,R,19940408,UKR,,Q53647079
 205942,Ekaterina,Yakovleva,U,19930317,RUS,,
 205943,Elodie,Rogge Dietrich,U,19830903,FRA,,
-205944,Lidziya,Marozava,R,19921008,BLR,1.83,Q6287256
+205944,Lidziya,Marozava,R,19921008,BLR,183,Q6287256
 205945,Shiori,Araki,U,19900119,JPN,,
 205946,Se Jin,Lee,U,19900810,KOR,,
 205947,Ji Sun,Kim,R,19860629,KOR,,
@@ -6007,7 +6007,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 206004,Anastasia,Wagner,U,19900321,GER,,
 206005,Diana,Stomlega,R,19930308,ROU,,
 206006,Fernanda,Soares,U,19920224,BRA,,
-206007,Laura,Pigossi,R,19940802,BRA,1.64,Q6499315
+206007,Laura,Pigossi,R,19940802,BRA,164,Q6499315
 206008,Liz Tatiane,Koehler Bogarin,R,19930730,BRA,,
 206009,Giovanna,Tomita,R,19930403,BRA,,
 206010,Giovanna,Portiolli,R,19910601,BRA,,
@@ -6060,7 +6060,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 206057,Simona,Ionescu,U,19940108,ROU,,
 206058,Patricia,Chirea,R,19911008,ROU,,
 206059,Barbare,Eristavi,R,19950616,GEO,,
-206060,Ani,Amiraghyan,R,19931009,ARM,1.68,Q15222150
+206060,Ani,Amiraghyan,R,19931009,ARM,168,Q15222150
 206061,Annika,Sillanpaa,U,19940623,FIN,,
 206062,Adrija,Runcha,R,19931202,LAT,,
 206063,Caroline,Rohde Moe,U,19920410,NOR,,Q19856850
@@ -6174,10 +6174,10 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 206171,Alice,Bacquie,U,19950723,FRA,,
 206172,Chiara,Pappacena,R,19940714,ITA,,
 206173,Beatrice,Lombardo,U,19960215,ITA,,
-206174,Cecilia,Costa Melgar,R,19921226,CHI,1.6,Q5056421
+206174,Cecilia,Costa Melgar,R,19921226,CHI,160,Q5056421
 206175,Tess,Sugnaux,R,19950303,SUI,,Q19309903
 206176,Samira,Giger,U,19930123,SUI,,
-206177,Joana,Eidukonyte,R,19941002,LTU,1.72,Q11518354
+206177,Joana,Eidukonyte,R,19941002,LTU,172,Q11518354
 206178,Susanne,Celik,R,19941206,SWE,,Q19925316
 206179,Nika,Kovac,R,19921222,SLO,,
 206180,Ghislaine,Van Baal,R,19920617,NED,,
@@ -6329,7 +6329,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 206326,Dana,Machalkova,U,19920607,CZE,,
 206327,Olivia,Matuszak,U,19890526,GER,,
 206328,Paulina,Petriskova,R,19931004,SVK,,
-206329,Montserrat,Gonzalez,R,19940701,PAR,1.7,Q6906582
+206329,Montserrat,Gonzalez,R,19940701,PAR,170,Q6906582
 206330,Daniela,Degano,R,19930401,ARG,,
 206331,Jazmin,Britos,R,19930219,PAR,,
 206332,Camila,Giangreco Campiz,R,19960824,PAR,,Q13501891
@@ -6374,7 +6374,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 206371,Alina,Silich,U,19960710,RUS,,
 206372,Julaluck,Sae Eung,U,19950127,THA,,
 206373,Regina,Clark,U,19960326,MEX,,
-206374,Yafan,Wang,R,19940430,CHN,1.7,Q15469035
+206374,Yafan,Wang,R,19940430,CHN,170,Q15469035
 206375,Sonia,Daggou,R,19930529,TUN,,
 206376,Nour,Abbes,R,19930620,TUN,,Q17418361
 206377,Emma,Janssen,U,19950630,BEL,,
@@ -9369,7 +9369,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 209366,Lyubov,Slovtsova,U,19871107,UKR,,
 209367,Olga,Makhova,U,19910824,RUS,,
 209368,Ekaterina,Zapadalova,R,19900216,RUS,,
-209369,Emma Sofia,Helisten,R,19890511,FIN,1.7,Q15233688
+209369,Emma Sofia,Helisten,R,19890511,FIN,170,Q15233688
 209370,Ekaterina,Jeritsheva,U,19890127,EST,,
 209371,Maria,Fagerstrom,U,19910404,FIN,,
 209372,Jennifer,Holmberg,U,19881219,FIN,,
@@ -10303,7 +10303,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 210300,Michela,Casanova,R,19921124,SUI,,
 210301,Martina,Krischkeova,U,19920203,CZE,,
 210302,Janina,Ruhstaller,R,19930103,SUI,,
-210303,Kathinka,Von Deichmann,R,19940516,LIE,1.76,Q6376623
+210303,Kathinka,Von Deichmann,R,19940516,LIE,176,Q6376623
 210304,Larissa,Horat,R,19911226,SUI,,
 210305,Solveig,Fosser,R,19910219,NOR,,
 210306,Ebba,Unden,R,19921024,SWE,,
@@ -10957,7 +10957,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 210954,Camila,San Martin,R,19910706,ARG,,
 210955,Georgia,Craven,R,19941110,GBR,,
 210956,Nela,Platkova,R,19940421,CZE,,
-210957,Cornelia,Lister,U,19940526,SWE,1.83,Q16219266
+210957,Cornelia,Lister,U,19940526,SWE,183,Q16219266
 210958,Alexandra,Perper,R,19910729,MDA,,Q22007384
 210959,Karyna,Alesha,R,19931224,BLR,,
 210960,Valeryia,Kulikouskaya,R,19940130,BLR,,
@@ -11043,8 +11043,8 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 211040,Juliana,Pena,U,19961122,COL,,
 211041,Ana Marcela,Rengifo Caracas,U,19961026,COL,,
 211042,Juliana Jose,Parra Gomez,U,19960224,COL,,
-211043,Maria Paulina,Perez Garcia,R,19960110,COL,1.7,Q15831516
-211044,Paula Andrea,Perez Garcia,R,19960110,COL,1.68,Q15831515
+211043,Maria Paulina,Perez Garcia,R,19960110,COL,170,Q15831516
+211044,Paula Andrea,Perez Garcia,R,19960110,COL,168,Q15831515
 211045,Camila,Franco,R,19930823,ARG,,
 211046,Natalla,Khaniejo,U,19930204,IND,,
 211047,Jasmine Kaur,Bajaj,R,19961130,IND,,
@@ -11122,7 +11122,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 211119,Angela,Lorenzo Garrido,R,19960126,ESP,,
 211120,Marina,Marti Hernanz,U,19950114,ESP,,
 211121,Anna,Montserrat Sanchez,L,19940222,ESP,,
-211122,Charlotte,Roemer,R,19940108,ECU,1.71,Q18592498
+211122,Charlotte,Roemer,R,19940108,ECU,171,Q18592498
 211123,Alba,Escalona Perny,U,19950420,ESP,,
 211124,Casey,Robinson,R,19910613,USA,,
 211125,Helga Margret,Jeske,U,19941103,RSA,,
@@ -11288,7 +11288,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 211285,Tayisiya,Morderger,L,19970307,GER,,Q24514265
 211286,Yulia,Zakharova,R,19950309,RUS,,
 211287,Nanette,Nylund,R,19960909,FIN,,
-211288,Mia Nicole,Eklund,L,19941030,FIN,1.76,Q15029822
+211288,Mia Nicole,Eklund,L,19941030,FIN,176,Q15029822
 211289,Courtney,Collins,R,19910226,USA,,
 211290,Sybille,Gauvain,U,19940731,FRA,,Q55955962
 211291,Chiara,Trovi,R,19940725,ITA,,
@@ -11411,7 +11411,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 211408,Kerstin,Peckl,U,19890902,AUT,,Q20983768
 211409,Marija Vera,Stankovic,U,19970306,SRB,,
 211410,Antoaneta,Tzarvulkova,U,19940131,BUL,,
-211411,Nina,Stojanovic,R,19960730,SRB,1.76,Q15720452
+211411,Nina,Stojanovic,R,19960730,SRB,176,Q15720452
 211412,Bojana,Marinkovic,U,19961030,SRB,,Q28739907
 211413,Teona,Tatishvili,U,19930731,GEO,,
 211414,Seda,Vardanyan,U,19960529,ARM,,
@@ -11736,7 +11736,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 211733,Violeta,Jankovic,U,19950108,SRB,,
 211734,Tsveta Konstantinova,Dimitrova,R,19950507,BUL,,
 211735,Miljana,Ristic,U,19971204,SRB,,
-211736,Ivana,Jorovic,R,19970503,SRB,1.74,Q15636316
+211736,Ivana,Jorovic,R,19970503,SRB,174,Q15636316
 211737,Marija,Bogicevic,U,19950606,SRB,,
 211738,Pia,Cuk,R,19960724,SLO,,Q95627324
 211739,Olena,Kyrpot,U,19940404,UKR,,
@@ -11814,7 +11814,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 211811,Deborah,Cruciani,U,19951104,ITA,,
 211812,Caterina,Brunamonti,U,19950604,ITA,,
 211813,Luisa Marie,Huber,U,19950622,GER,,Q19899673
-211814,Julia,Grabher,R,19960702,AUT,1.7,Q18972370
+211814,Julia,Grabher,R,19960702,AUT,170,Q18972370
 211815,Lisa,Schlatter,R,19950319,AUT,,
 211816,Alina,Soltanici,R,19950207,MDA,,
 211817,Elena Gabriela,Ruse,U,19971106,ROU,,Q20745254
@@ -11864,7 +11864,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 211861,Sabina,Jeresic,U,19950531,CRO,,
 211862,Ana Paula,Neffa De Los Rios,R,19970117,PAR,,
 211863,Marjorie,Ondeck,U,19880420,USA,,
-211864,Maria Fernanda,Herazo Gonzalez,L,19970322,COL,1.66,Q15788251
+211864,Maria Fernanda,Herazo Gonzalez,L,19970322,COL,166,Q15788251
 211865,Maria,Gomez Saldarriaga,U,19960327,COL,,
 211866,Laura,Beltran,R,19910120,COL,,
 211867,Natalie,Lozano,U,19940813,COL,,
@@ -11874,7 +11874,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 211871,Vishesh,Vkc,U,19950515,IND,,
 211872,Priscilla,Medlich Leal,U,19960408,MEX,,
 211873,Esthefhanie Darehly,Juarez Rojo,U,19921025,MEX,,
-211874,Victoria,Rodriguez,U,19950422,MEX,1.7,Q14775760
+211874,Victoria,Rodriguez,U,19950422,MEX,170,Q14775760
 211875,Daniella,Daniel,R,19940922,GEO,,
 211876,Angelina,Zhuravleva,U,19961120,RUS,,
 211877,Antonella,Bramato,R,19970303,MEX,,
@@ -14040,7 +14040,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 214037,Julie,Queval,R,19911001,FRA,,
 214038,Judith Maria,Barrios Rolon,U,19980515,PAR,,
 214039,Ines,Canepa,R,19950730,URU,,
-214040,Kimberly,Birrell,U,19980429,AUS,1.7,Q15635268
+214040,Kimberly,Birrell,U,19980429,AUS,170,Q15635268
 214041,Bianka,Bekefi,R,19970318,HUN,,Q28813458
 214042,Reem,Fayed,U,19940507,EGY,,
 214043,Daniella,Moreno Kaste,R,19971027,USA,,
@@ -16081,7 +16081,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 216078,Celia,Cervino Ruiz,U,19971214,ESP,,
 216079,Ran,Meng,U,19921117,CHN,,
 216080,Anna Marija,Bukina,U,19990702,LAT,,
-216081,Maja,Chwalinska,U,20011011,POL,,Q28672411
+216081,Maja,Chwalinska,L,20011011,POL,,Q28672411
 216082,Alexis,Jones,R,19970314,USA,,
 216083,Caty,Mcnally,R,20011120,USA,,Q27537235
 216084,Viktoria,Surova,R,19990927,SVK,,
@@ -34750,7 +34750,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 234757,Betty Mae,Cohn,U,,USA,,
 234758,Mona,Jordan,U,,USA,,
 234759,Phoebe,Johnson,U,,USA,,
-234760,Norma,Luhrman,U,,USA,,
+234760,DUPE Norma,Luhrman,U,,USA,,
 234761,Marie,Dunaromh,U,,USA,,
 234762,Nancy,Rhodes,U,,USA,,
 234763,,Bourne,U,,USA,,
@@ -36713,7 +36713,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 236720,DUPE Hyacinth,Cargin,U,,IND,,
 236721,Cecile,Miner,U,,USA,,
 236722,Olive,Stebbing,U,,AUS,,
-236723,Mrs,Otoole,U,,USA,,
+236723,Mrs Keg,Otoole,U,,USA,,
 236724,Alice,Anderson,U,,USA,,
 236725,Doris,Kruse,U,,USA,,
 236726,Faith,Mcloughlin,U,,USA,,
@@ -36780,7 +36780,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 236787,Ann,Barstow,U,,USA,,
 236788,Helen,Boswell,U,,USA,,
 236789,Virginia,Wilkinson,U,,USA,,
-236790,Mrs,Hannaford,U,,USA,,
+236790,Mrs Don,Hannaford,U,,USA,,
 236791,Mary Ann,Davis,U,,USA,,
 236792,Mrs Rendigs,Feis,U,,USA,,
 236793,Kathleen,Whidden,U,,USA,,
@@ -36791,7 +36791,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 236798,Jennifer,Bruce,U,,USA,,
 236799,Pauline,Bruce,U,,USA,,
 236800,Eleanor,Stroud,U,,USA,,
-236801,,Hamm,U,,USA,,
+236801,Mrs F C,Hamm,U,,USA,,
 236802,Billy Ann,Niland,U,,USA,,
 236803,Ernestine,Schissler,U,,USA,,
 236804,Althea,Doyle,U,,USA,,
@@ -59577,3 +59577,148 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 259585,Zali,Morris,U,,AUS,,
 259586,Elyana,Moonen,U,,AUS,,
 259587,Kenzy,Moustafa,U,,EGY,,
+259588,Bianca Mendonca Bernardes,Bia Bernardes,U,,BRA,,
+259589,Bianca,Goncalves Lampert,U,,BRA,,
+259590,Emma,Wilson,U,,GBR,,
+259591,Ella,Mcdonald,U,,GBR,,
+259592,Simay,Keles,U,,TUR,,
+259593,Allison Nicole,Isaacs,U,,USA,,
+259594,Grace,Levelston,U,,USA,,
+259595,Julia,Bortoluzzi Bianchin Bordignon,U,,BRA,,
+259596,Diana,Bezerra Souza,U,,BRA,,
+259597,Isadora,Bezerra De Araújo Lacerda Lima,U,,BRA,,
+259598,Luiza,Eidelvein,U,,BRA,,
+259599,Gabriela,Kawano Cho,U,,BRA,,
+259600,Yasmin,Bohnenberger De Aguirres,U,,BRA,,
+259601,Beatriz,Dias Monma Onishi,U,,BRA,,
+259602,Julia,Viesi Santoro Pereira,U,,BRA,,
+259603,Sofia,Carvalho Rocha,U,,BRA,,
+259604,Natalia,Alexandre Reimer,U,,BRA,,
+259605,Emma,Tothova,U,,SVK,,
+259606,Andra Diana,Stanciu,U,,ROU,,
+259607,Brooke,Black,U,,GBR,,
+259608,Amelie,Brooks,U,,GBR,,
+259609,Jessica,Matthews,U,,GBR,,
+259610,Francesca,Davis,U,,GBR,,
+259611,Regina,Ristic North,U,,GBR,,
+259612,Hannah,Smith,U,,GBR,,
+259613,Paulina,Jurkowska,U,,GBR,,
+259614,Alessia,Popescu,U,,ROU,,
+259615,Freya,Davies,U,,GBR,,
+259616,Christina,Korakopoulou,U,,GRE,,
+259617,Elina,Popescu,U,,ROU,,
+259618,Maya,Battle,U,,USA,,
+259619,Zeynep,Canturk,U,,TUR,,
+259620,Hana,Evans,U,,USA,,
+259621,Aleyna,Ozer,U,,TUR,,
+259622,Anastasia,Zhilina,U,,RUS,,
+259623,Chia Yi,Tsao,U,,TPE,,
+259624,Anne Rim,Romp,U,,NED,,
+259625,Alisa,Lyshko,U,,USA,,
+259626,Phyllis,Wood,U,,USA,,
+259627,Helen,Poland,U,,USA,,
+259628,Lenore,Shea,U,,USA,,
+259629,Mrs Russell,Barber,U,,USA,,
+259630,Jean,Prince,U,,USA,,
+259631,Mrs C S,Warner,U,,USA,,
+259632,Louise,Levis,U,,USA,,
+259633,,Brunarius,U,,FRA,,
+259634,Monique,Laisne,U,,FRA,,
+259635,Claude,Manescu,U,,FRA,,
+259636,,Hannedouche,U,,FRA,,
+259637,Mrs E K,Tryon,U,,USA,,
+259638,Mrs Fred,Hufnagel,U,,USA,,
+259639,Virginia,Merryweather,U,,USA,,
+259640,Shirley,Mcconnell,U,,USA,,
+259641,Louise,Johnson,U,,USA,,
+259642,Fairlee,Maxwell,U,,USA,,
+259643,Fanny,Sturgis,U,,USA,,
+259644,Mrs J B,Druffel,U,,USA,,
+259645,Ann,Mccormick,U,,USA,,
+259646,Mrs Frederick,Lazarus,U,,USA,,
+259647,Lena,Paine,U,,USA,,
+259648,Inez,Paterson,U,,USA,,
+259649,,Piston,U,,FRA,,
+259650,Mrs Robert,Hare,U,,USA,,
+259651,Edith,Pierce,U,,USA,,
+259652,Barbara,Burford,U,,USA,,
+259653,Betty,Payne,U,,USA,,
+259654,Barbara,Brunson,U,,USA,,
+259655,Ruth,Gates,U,,USA,,
+259656,Peggy,Parnham,U,,USA,,
+259657,Suzette,Sands,U,,USA,,
+259658,Mrs B F,Eshelman,U,,USA,,
+259659,Ena,Dellinger,U,,USA,,
+259660,Carol,Painter,U,,USA,,
+259661,Mrs Theodore,Hackett,U,,USA,,
+259662,Eugenia,Slaymaker,U,,USA,,
+259663,Elinor,Stopf,U,,USA,,
+259664,Isabella,Wright,U,,USA,,
+259665,Patricia,Schick,U,,USA,,
+259666,Louise,Ville,U,,USA,,
+259667,Katherine,King,U,,USA,,
+259668,Adalyn,Merrill,U,,USA,,
+259669,Virginia,Wilkinson,U,,USA,,
+259670,Ann,Allen,U,,USA,,
+259671,Becky,Dennard,U,,USA,,
+259672,Virginia,Tuggle,U,,USA,,
+259673,Josephine,Corson,U,,USA,,
+259674,Phyllis,Tingle,U,,USA,,
+259675,Lena,Waldon,U,,USA,,
+259676,Edna,Jackson,U,,USA,,
+259677,Mildred,Brown,U,,USA,,
+259678,Ruth,Thompson,U,,USA,,
+259679,Jessie E,Abbott,U,,USA,,
+259680,Sylvia,Ashby,U,,USA,,
+259681,Helen,Hutchinson,U,,USA,,
+259682,Peggy,Kleckner,U,,USA,,
+259683,Paulette,Mellario,U,,FRA,,
+259684,Simone,Mercier,U,,FRA,,
+259685,Mingge,Xu,U,,GBR,,
+259686,Talia,Neilson Gatenby,U,,GBR,,
+259687,Sofia,Arellano,U,,CHL,,
+259688,Aanya,Goel,U,,USA,,
+259689,Vesa,Gjinaj,U,,UNK,,
+259690,Rinko,Matsuda,U,,JPN,,
+259691,Bianca,Bernardes,U,,BRA,,
+259692,Valentina,Ferrarini,U,,BRA,,
+259693,Marine,Boutros,U,,EGY,,
+259694,Layla,Sakr,U,,EGY,,
+259695,Sofia,Germani,U,,ITA,,
+259696,Rawan,Sherif,U,,EGY,,
+259697,Lina,Elhamalawy,U,,EGY,,
+259698,Vanessa,Epp,U,,DEU,,
+259699,Caterina,Revelli,U,,GBR,,
+259700,Tea,Pavlicic,U,,ESP,,
+259701,Claudia,Colombo,U,,ITA,,
+259702,Jael,Molongo,U,,FRA,,
+259703,Melis Doga,Ozcan,U,,TUR,,
+259704,Nora,Namesnik,U,,AUT,,
+259705,Francesca Heidi,Tan,U,,INA,,
+259706,Maria Jose,Hernandez Diaz,U,,MEX,,
+259707,Niamh,Campbell,U,,GBR,,
+259708,Lola,Collin,U,,FRA,,
+259709,Thanh Lan,Truong,U,,FRA,,
+259710,Leana,Chanove,U,,FRA,,
+259711,Meline,Chaumeil,U,,FRA,,
+259712,Ava,Williamson,U,,GBR,,
+259713,Daniela,Piani,U,,GBR,,
+259714,Lara,Bakhaya,U,,GBR,,
+259715,Ellie,Blackford,U,,GBR,,
+259716,Chloe,Elliott,U,,GBR,,
+259717,Tabitha,Holmes,U,,GBR,,
+259718,Khushi Kaur,Grewal,U,,CAN,,
+259719,Ximena,Senties,U,,MEX,,
+259720,Katina Estefania,Zepeda Barrios,U,,MEX,,
+259721,Irina,Artemova,U,,RUS,,
+259722,Polina,Kratyuk,U,,RUS,,
+259723,Anastasia,Rozhkova,U,,RUS,,
+259724,Alexandra,Kornilova,U,,RUS,,
+259725,Jovana,Grujic,U,,SRB,,
+259726,Jade,Haller,U,,SUI,,
+259727,Alessia,Manca,U,,ITA,,
+259728,Nazli Deniz,Saka,U,,TUR,,
+259729,Daryna,Shoshyna,U,,UKR,,
+259730,Lana,Stanisic,U,,SRB,,
+259731,Diana,Khaydarshina,U,,RUS,,
+259732,Diana,Moshoy,U,,RUS,,
